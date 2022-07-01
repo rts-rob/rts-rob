@@ -1,11 +1,11 @@
 # Rob Sutter
 
-Developer Advocate for all things serverless.
+Engineering all things serverless.
 
 * [Website][website]
-* [Twitch channel][twitch]
+* [Portfolio][portfolio]
 * [Twitter][twitter]
 
-[twitch]: https://twitch.tv/robsutter
+[portfolio]: https://whois.robsutter.com
 [twitter]: https://twitter.com/rts_rob
 [website]: https://robsutter.com
