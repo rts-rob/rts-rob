@@ -1,3 +1,5 @@
+<link rel="me" href="https://mastodon.online/@robsutter" />
+
 # Rob Sutter
 
 Engineering all things serverless.
